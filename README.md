@@ -24,6 +24,7 @@
 
 ## Output
 
-<img width="559" alt="Screenshot 2022-02-06 at 20 11 12" src="https://user-images.githubusercontent.com/38869311/152697418-b71c2ac4-529d-4c33-b4be-87682d937de2.png">
+![course_10072_image](https://github.com/ram574/pyspark_learning/assets/38869311/890ff8d6-ae80-4023-a618-c3cde4031e51)
+
 
 
